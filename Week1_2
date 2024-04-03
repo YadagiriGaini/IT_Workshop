@@ -9,3 +9,10 @@ pwd //confirms the directory
 cp //copies the files
 rm //removes the files and directories
 mv //moves the files and directoires
+id //print user identity
+groups //shows which groups user belongs to
+passwd //change user password
+who //find out who is logged into the systems
+last //show history of logins into the system
+chown //change file/directory ownership
+
