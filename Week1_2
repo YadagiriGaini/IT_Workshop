@@ -1,0 +1,11 @@
+Basic Linux Commands
+ls //Lists all the files and folders available in the specified directory
+mkdir //makes a directory
+rmdir //removes a directory
+touch // creates a file
+cat> //creates and file and adds content given to it
+cd //changes the directory
+pwd //confirms the directory
+cp //copies the files
+rm //removes the files and directories
+mv //moves the files and directoires
