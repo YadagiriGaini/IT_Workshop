@@ -31,4 +31,11 @@ last
 //show history of logins into the system
 chown 
 //change file/directory ownership
+whoami
+//Displays the user-id of the currently logged in user
+date
+//Displays the system date and time
+df
+//Show the number of free blocks for the mounted file system
+cal
 
